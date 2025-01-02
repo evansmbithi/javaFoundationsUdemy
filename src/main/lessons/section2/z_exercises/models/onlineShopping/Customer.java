@@ -47,11 +47,11 @@ public class Customer {
 
     @Override
     public String toString() {
-        return "customer{" +
-                "firstName:'" + firstName + "', " +
-                "lastName:'" + lastName + "', " +
-                "address:" + address + ", " +
-                "order:" + order +
+        return "\"customer\":{" +
+                "\"firstName\":\"" + firstName + "\", " +
+                "\"lastName\":\"" + lastName + "\", " +
+                "\"address\":" + address + ", " +
+                "\"order\":" + order +
                 "}";
     }
 }

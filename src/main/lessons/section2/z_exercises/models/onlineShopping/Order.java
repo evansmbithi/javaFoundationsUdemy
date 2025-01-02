@@ -52,9 +52,9 @@ public class Order {
     @Override
     public String toString() {
         return "{" +
-                "orderID:" + orderNumber + ", " +
-                "products:" + products + ", " +
-                "totalPrice:" + totalPrice+
+                "\"orderID\":\"" + orderNumber + "\", " +
+                "\"totalPrice\":" + totalPrice + ", " +
+                "\"products\":" + products +
                 "}";
     }
 
