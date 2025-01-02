@@ -45,8 +45,4 @@ public class Product {
 
     }
 
-//    public static void main(String[] args) {
-//        Product soap = new Product("Dettol",499);
-//        System.out.println(soap);
-//    }
 }

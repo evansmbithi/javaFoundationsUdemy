@@ -58,9 +58,4 @@ public class Order {
                 "}";
     }
 
-//    public static void main(String[] args) {
-//        Product[] products = allProducts();
-//        Order order = new Order(products);
-//        System.out.println(order);
-//    }
 }
